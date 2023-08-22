@@ -1,0 +1,10 @@
+pandas datareader Problems :- string indies must be integers. 
+
+1 ! pip install yfinance 
+2 import yfinance as yf
+3 yf. pdr_overrated () 
+4 yf. download ("TSLA" , start="2020_01_02", end=("2020-12-31") 
+ that's how you solve the problem facing with pandas datareader . 
+you don't need to import pandas datareader just follow the steps that are given above. 
+                                               Regards, 
+                                                Faizan
